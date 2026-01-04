@@ -53,6 +53,9 @@ The **Decision Tree Regressor** was selected as the final model due to its super
 - Jupyter Notebook  
 
 ---
-
+## Contact
+- 💼 LinkedIn: www.linkedin.com/in/sanvisharma29
+- 📧 Email: sanvisharma592@gmail.com
+- 💻 GitHub: https://github.com/sanvisharma29
 
    
